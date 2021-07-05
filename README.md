@@ -1,3 +1,3 @@
 Live: 
 
-https://mahin003.github.io/Amazon_Font_Page/
+https://cocky-keller-3b4581.netlify.app/
